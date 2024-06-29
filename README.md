@@ -1,6 +1,9 @@
 # Tiny C&C Server
 Tiny is an open-source command-and-control (C&C) server designed for managing DDoS attacks.
 
+# Note
+This project is for educational purposes only.
+
 # Editing Server Configuration
 In the `run.py` file, you can customize the ports used by the CNC and BOT servers:
 ```py
